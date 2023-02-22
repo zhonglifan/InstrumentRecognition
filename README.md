@@ -1,2 +1,2 @@
 # InstrumentRecognition
-Predominant Instrument Recognition Project (coming soon..)
+Predominant Instrument Recognition Project
